@@ -6,4 +6,4 @@ transfer
 gfserver
 gfclient
 gfclient_mt
-gfserver_mt
+[gfserver_mt](gfserver_main)
