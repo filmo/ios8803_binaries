@@ -5,5 +5,6 @@ echo
 transfer
 gfserver
 gfclient
-gfclient_mt
+[gfclient_mt](gfclient_download)
+
 [gfserver_mt](gfserver_main)
